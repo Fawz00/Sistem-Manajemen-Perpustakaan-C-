@@ -15,14 +15,19 @@ Tugas akhir mata kuliah Algoritma dan Pemrograman
   <li>Melihat daftar koleksi buku pada perpustakaan.<br>
     : fitur ini digunakan untuk menampilkan seluruh daftar buku yang ada pada perpustakaan. (Dapat dilihat admin dan user)
   </li>
-  Peminjaman buku dengan mencatat data peminjam dan waktu peminjaman.
-  : fitur ini digunakan untuk meminjam buku oleh user dan admin
-  Pengembalian buku dengan lama durasi peminjaman atau kurang.
-  : fitur ini digunakan oleh user 
-  Perpanjangan durasi peminjaman.
-  : fitur ini dapat digunakan oleh user dengan meminta pada admin 
-  Peminjam dapat melihat sisa durasi peminjaman masing-masing buku.
-  : fitur ini dapat digunakan oleh user admin.
-  Peminjam dapat melihat total denda jika melebihi batas peminjaman dam merusak atau menghilangkan buku .
-  : fitur ini dapat digunakan oleh user dan admin.
+  <li>Peminjaman buku dengan mencatat data peminjam dan waktu peminjaman.<br>
+    : fitur ini digunakan untuk meminjam buku oleh user dan admin
+  </li>
+  <li>Pengembalian buku dengan lama durasi peminjaman atau kurang.<br>
+    : fitur ini digunakan oleh user
+  </li>
+  <li>Perpanjangan durasi peminjaman.<br>
+    : fitur ini dapat digunakan oleh user dengan meminta pada admin
+  </li>
+  <li>Peminjam dapat melihat sisa durasi peminjaman masing-masing buku.<br>
+    : fitur ini dapat digunakan oleh user admin.
+  </li>
+  <li>Peminjam dapat melihat total denda jika melebihi batas peminjaman dam merusak atau menghilangkan buku.<br>
+    : fitur ini dapat digunakan oleh user dan admin.
+  </li>
 </ul>
